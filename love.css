@@ -1,0 +1,60 @@
+body {
+	font-family: 'helvetica';
+	background-color: #F5B800
+}
+
+#container {
+	margin: 50px auto;
+	height: 300px;
+	width: 300px;
+}
+
+.l,.o,.v.e {
+	letter-spacing: -10px;
+	line-height: 106px;
+	font-weight: 900;
+	float: left;
+	font-size: 11em;
+	margin: 0;
+	padding: 0;
+	color: #e74c3c;
+	text-shadow: 1px 1px #c0392b,
+		2px 2px #c0392b,
+		3px 3px #c0392b,
+		4px 4px #c0392b,
+		5px 5px #c0392b,
+		6px 6px #c0392b,
+		7px 7px #c0392b,
+		8px 8px #c0392b, 
+		9px 9px #c0392b,
+		10px 10px #c0392b,
+		11px 11px #c0392b,
+		12px 12px #c0392b,
+		13px 13px #c0392b,
+		14px 14px #c0392b,
+		15px 15px #c0392b,
+		16px 16px #c0392b,
+		17px 17px #c0392b,
+		18px 18px #c0392b,
+		19px 19px #c0392b,
+		20px 20px #c0392b,
+		21px 21px #c0392b,
+		22px 22px #c0392b,
+		23px 23px #c0392b,
+		24px 24px #c0392b,
+		25px 25px #c0392b;
+		/*z-index: 9999;*/
+}
+
+.o {
+	-webkit-transform: rotate(25deg);
+	/*z-index: -9999;*/ 
+	over-flow: hidden;
+}
+
+.e {
+	position: relative;
+	left: 0;
+	top: 0;
+	/*z-index: 99;*/
+}
