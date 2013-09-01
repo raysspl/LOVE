@@ -58,3 +58,6 @@ body {
 	top: 0;
 	/*z-index: 99;*/
 }
+
+/*After some trial-and-error, it looks like z-index isn't 
+necessarily needed*/
